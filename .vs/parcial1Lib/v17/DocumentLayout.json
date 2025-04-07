@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B073C2F-1123-4745-BB8F-2E5AFEE3F67A}|Parcial1Test\\Parcial1Test.csproj|c:\\users\\daniz\\downloads\\parcial1lib\\parcial1test\\testunittriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B073C2F-1123-4745-BB8F-2E5AFEE3F67A}|Parcial1Test\\Parcial1Test.csproj|solutionrelative:parcial1test\\testunittriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B073C2F-1123-4745-BB8F-2E5AFEE3F67A}|Parcial1Test\\Parcial1Test.csproj|c:\\users\\daniz\\downloads\\parcial1lib\\parcial1test\\parcial1test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B073C2F-1123-4745-BB8F-2E5AFEE3F67A}|Parcial1Test\\Parcial1Test.csproj|solutionrelative:parcial1test\\parcial1test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B073C2F-1123-4745-BB8F-2E5AFEE3F67A}|Parcial1Test\\Parcial1Test.csproj|c:\\users\\daniz\\downloads\\parcial1lib\\parcial1test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B073C2F-1123-4745-BB8F-2E5AFEE3F67A}|Parcial1Test\\Parcial1Test.csproj|solutionrelative:parcial1test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BDD65E-E83C-44E3-84E3-38179336C2BB}|parcial1Lib\\Parcial1Lib.csproj|c:\\users\\daniz\\downloads\\parcial1lib\\parcial1lib\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BDD65E-E83C-44E3-84E3-38179336C2BB}|parcial1Lib\\Parcial1Lib.csproj|solutionrelative:parcial1lib\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BDD65E-E83C-44E3-84E3-38179336C2BB}|parcial1Lib\\Parcial1Lib.csproj|c:\\users\\daniz\\downloads\\parcial1lib\\parcial1lib\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BDD65E-E83C-44E3-84E3-38179336C2BB}|parcial1Lib\\Parcial1Lib.csproj|solutionrelative:parcial1lib\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestUnitTriangulo.cs",
+              "DocumentMoniker": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\Parcial1Test\\TestUnitTriangulo.cs",
+              "RelativeDocumentMoniker": "Parcial1Test\\TestUnitTriangulo.cs",
+              "ToolTip": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\Parcial1Test\\TestUnitTriangulo.cs",
+              "RelativeToolTip": "Parcial1Test\\TestUnitTriangulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:10:56.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parcial1Test.csproj",
+              "DocumentMoniker": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\Parcial1Test\\Parcial1Test.csproj",
+              "RelativeDocumentMoniker": "Parcial1Test\\Parcial1Test.csproj",
+              "ToolTip": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\Parcial1Test\\Parcial1Test.csproj",
+              "RelativeToolTip": "Parcial1Test\\Parcial1Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T23:09:39.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\Parcial1Test\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Parcial1Test\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\Parcial1Test\\MSTestSettings.cs",
+              "RelativeToolTip": "Parcial1Test\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:09:32.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\parcial1Lib\\Triangulo.cs",
+              "RelativeDocumentMoniker": "parcial1Lib\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\parcial1Lib\\Triangulo.cs",
+              "RelativeToolTip": "parcial1Lib\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:02:21.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FiguraGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\parcial1Lib\\FiguraGeometrica.cs",
+              "RelativeDocumentMoniker": "parcial1Lib\\FiguraGeometrica.cs",
+              "ToolTip": "C:\\Users\\daniz\\Downloads\\parcial1Lib\\parcial1Lib\\FiguraGeometrica.cs",
+              "RelativeToolTip": "parcial1Lib\\FiguraGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:56:51.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
